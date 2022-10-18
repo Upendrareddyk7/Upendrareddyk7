@@ -3,7 +3,7 @@
 - I’m interested in the Field of ANALYTICS
 - I’m currently Looking for a Job as a Fresher
 - I’m looking to collaborate on the field of Data Analytics,Data Scientist or Business Analytical Field
-- I'm have good skills in Python,MySQL,Excel,Tableu
+- I'm have good skills in Python,MySQL,Excel,Tableau
 - You Can Reach me on upendrareddy.k7@gmail.com.
 
 <!---
