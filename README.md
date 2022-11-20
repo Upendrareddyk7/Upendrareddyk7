@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Upendrareddyk7  From Bangalore where i completed B.E in Informataion Science and Engineering 
+- 👋 Hi, I’m @Upendrareddyk7  From Bangalore where i have pursued B.E in Informataion Science and Engineering 
       in Visveswaraya Technological University in the Year Of 2022.
 - I’m interested in the Field of ANALYTICS
 - I’m currently Looking for a Job as a Fresher
